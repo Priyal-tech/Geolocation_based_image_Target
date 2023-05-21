@@ -6,5 +6,8 @@ https://arloopa.page.link/k6xyPdQDCKFNtV7P8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DEMO Project Video:
 Location:SRM Ktr 
-https://github.com/Priyal-tech/Geolocation_based_image_Target/assets/76651983/9d28d574-73cd-4ad2-b395-bb67a9afb0db
+
+
+
+https://github.com/Priyal-tech/Geolocation_based_image_Target/assets/76651983/7cde93e0-f87a-4dc8-a737-ae5261d5a47a
 
